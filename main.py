@@ -2,7 +2,7 @@ import random
 
 print('''
 Password Generator
-==================''')
+──────────────────''')
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@£$%^&*().,?0123456789'
 
